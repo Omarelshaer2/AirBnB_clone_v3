@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AirBnB Clone - The Console
 
 The console is the first segment of the AirBnB project at Holberton School that will collectively cover fundamental concepts of higher level programming. The goal of AirBnB project is to eventually deploy our server a simple copy of the AirBnB Website(HBnB). A command interpreter is created in this segment to manage objects for the AirBnB(HBnB) website.
@@ -19,7 +18,3 @@ Robel Amde - [Github](https://github.com/robel-ak)
 ## License
 
 Public Domain. No copy write protection.
-=======
-# Airbnb project.
-### by: Omar Elsayed
->>>>>>> 6f961f62ffce71aab46b612cc5256762ff56609f
