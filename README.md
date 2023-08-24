@@ -13,10 +13,8 @@ The console is the first segment of the AirBnB project at Holberton School that 
 
 ## License
 
-Public Domain. No copy write protection.
-=======
+### Public Domain. No copy write protection.
 =======
 ### by: Omar Elsayed
   <[Omar Elshaer](https://github.com/omarelshaer2)> 
 >>>>>>> ecaab20be0e8ed3d4da73be
->>>>>>> hdhssjsjsjndmksksikwkwkw
